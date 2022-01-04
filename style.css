@@ -1,0 +1,31 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 5px;
+}
+
+#BOOLHHMOJ4{
+  font-size: 5px;
+}
+
+#istockphoto-88219344-1024x1024.jpeg{
+  font-size: 5px;
+}
+
+download.jpeg
+body{
+  background-size: cover;
+  background-position: center;
+}
+
+canvas{
+  box-shadow: 10px, 10px, 10px grey;
+  border-radius: 10px;
+}
